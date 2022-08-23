@@ -7,17 +7,18 @@ Nabaang(나방)은 [네이버 커낵트재단 부스트캠프](https://boostcamp
 
 부스트캠프 수료 후 스터디를 진행해오고 있습니다.
 
-### 👨‍👨‍👦‍👦 구성원
+### 구성원 👨‍👨‍👦‍👦
 
 - [@newgardener](https://github.com/newgardener)
 - [@mugglim](https://github.com/mugglim)
 - [@kukucorn](https://github.com/kukucorn) 
 - [@jihoho](https://github.com/jihoho) 
 
-### 📚 스터디 목록
+### 스터디 목록 📚
 
-- [CS 스터디](https://github.com/Nabaang/Nabaang-CS-School)
+- [쏙쏙 들어오는 함수형 코딩(함수형 프로그래밍)](https://github.com/Nabaang/ssok-ssok-functional-coding)
+- [CS School](https://github.com/Nabaang/Nabaang-CS-School)
 
-### 🚀 프로젝트 목록
+### 프로젝트 목록 🚀
 
 - [나방(나만의 방송)](https://github.com/boostcampwm-2021/web28-NaBaaang)
